@@ -1,0 +1,22 @@
+﻿.footerlinks{
+    color:white;
+}
+.footerlinks:hover{
+    color:gold;
+}
+#footer1 {
+    background: black;
+}
+#footer2{
+    background: Green ;
+}
+
+.titleimg {
+    opacity: 0.9;
+    
+}
+
+    .titleimg:hover {
+        opacity: 1;
+        
+    }
